@@ -25,6 +25,21 @@ body{
     justify-content: center;
     align-items: center;
 }
+#weather{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.forecastName{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.forecastDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 
 #weather li {
